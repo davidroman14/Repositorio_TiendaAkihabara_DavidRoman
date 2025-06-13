@@ -115,3 +115,7 @@ Sugerencia automática de categoría para productos con IA
 Interfaz en consola y GUI (Swing)
 Persistencia total en base de datos MySQL
 Validación de datos de entrada y manejo de errores
+
+LINK AL GITHUB DEL PROYECTO
+--------------------------------------------------------------------------------------------
+https://github.com/davidroman14/Repositorio_TiendaAkihabara_DavidRoman
